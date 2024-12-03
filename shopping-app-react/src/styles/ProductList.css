@@ -1,0 +1,13 @@
+/* Optional: Custom CSS to adjust card styling */
+.card-body {
+    text-align: center; /* Center align text in the card body */
+  }
+  
+  .card-title {
+    font-size: 1.2rem; /* Adjust product name size */
+  }
+  
+  .card-text {
+    font-weight: bold; /* Bold the product price */
+  }
+  

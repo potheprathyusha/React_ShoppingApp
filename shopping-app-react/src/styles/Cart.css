@@ -1,0 +1,20 @@
+/* Cart page styling (Cart.css) */
+.cart-container {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .card {
+    border: none;
+  }
+  
+  .card-title {
+    font-weight: bold;
+  }
+  
+  .btn-danger {
+    width: 100%;
+    margin-top: 10px;
+  }
+  
